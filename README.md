@@ -1,0 +1,2 @@
+# SVNtoTeams
+TortoiseSVNのコミット情報をTeamsに送信するツールです。
