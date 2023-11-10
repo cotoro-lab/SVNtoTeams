@@ -1,20 +1,9 @@
 ﻿{
-    "project1": {
-        "name": "プロジェクト１",
-        "svnurl": "https://{ipaddress}/svn/projectname",
-        "teamswebhookurl": "",
-        "lastRevNo": 1
-    },
-    "project2": {
-        "name": "プロジェクト２",
-        "svnurl": "https://{ipaddress}/svn/projectname",
-        "teamswebhookurl": "",
-        "lastRevNo": 2
-    },
-    "project4": {
-        "name": "プロジェクト３",
-        "svnurl": "https://{ipaddress}/svn/projectname",
-        "teamswebhookurl": "",
-        "lastRevNo": 3
+    "{project name}": {
+        "tag": "{project name}",
+        "name": "{notification title}",
+        "svnurl": "{svn project URL}",
+        "teamswebhookurl": "{teams web hook URL}",
+        "lastRevNo": {Revision No}
     }
 }
